@@ -1,0 +1,22 @@
+{
+  "name": "array_handling",
+  "version": "1.0.0",
+  "description": "learning how to use arrays, and to understand them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/je-martini/array_handling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/je-martini/array_handling/issues"
+  },
+  "homepage": "https://github.com/je-martini/array_handling#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
